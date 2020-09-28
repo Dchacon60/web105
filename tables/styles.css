@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    width: 80% ;
+    margin: 15px auto;
+    border: 3px solid mediumslateblue;
+    overflow: auto;
+    padding: 15px;
+
+}
+
+h1{
+    text-align: center;
+    color: mediumslateblue;
+
+}
+h2{
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+
+}
+nav a{
+    text-decoration: none;
+    background-color: mediumslateblue;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 20px;
+
+}
+nav a:hover{
+    color: mediumslateblue;
+    background-color: white;
+}
